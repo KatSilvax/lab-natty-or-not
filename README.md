@@ -1,51 +1,26 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Podcast: Elas na Tech & IA 🎙️
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+![Garota](assets/girl.gif)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto apresenta um episódio de podcast fictício criado inteiramente por IAs Generativas. O objetivo foi explorar a capacidade das ferramentas atuais de criar diálogos fluidos, vozes naturais e conteúdo visual alinhado, debatendo o papel da mulher na revolução da Inteligência Artificial.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+* **ChatGPT (OpenAI):** Para roteirização do diálogo e estruturação do conteúdo.
+* **ElevenLabs:** Para clonagem de voz e síntese de fala (Text-to-Speech) com entonação realista.
+* **Bing Image Creator (DALL-E 3):** Para geração da arte de capa do episódio.
+* **Git & GitHub:** Para versionamento e portfólio.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1.  **Roteiro:** Utilizei o ChatGPT com um prompt focado em "diálogo natural, com gírias leves e pausas para respiração", simulando uma entrevista entre uma estudante de computação e uma especialista em IA.
+2.  **Áudio:** O texto foi submetido ao ElevenLabs, onde escolhi duas vozes distintas ('Rachel' e 'Antoni') e ajustei a estabilidade para garantir emoção na fala.
+3.  **Edição:** (Opcional) Uni os áudios usando uma ferramenta básica.
+4.  **Visual:** Pedi ao Bing Image Creator uma imagem estilo "Cyberpunk Lo-fi" representando mulheres programando com hologramas.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado é um áudio de 2 minutos que discute a importância da diversidade no treinamento de modelos de IA.
+[Link para o áudio ou vídeo aqui - Se você fizer o upload]
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+O desafio de criar algo 'Natty' (natural) está na entonação. Enquanto o texto é fácil de gerar, a ironia, o riso e as pausas naturais da fala humana ainda exigem ajustes manuais finos nas ferramentas de áudio. A fronteira entre o real e o sintético está cada vez mais tênue.
