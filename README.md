@@ -18,8 +18,10 @@ Este projeto apresenta um episódio de podcast fictício criado inteiramente por
 4.  **Visual:** Pedi ao Bing Image Creator uma imagem estilo "Cyberpunk Lo-fi" representando mulheres programando com hologramas.
 
 ## 🚀 Resultados
+
 O resultado é um áudio de 2 minutos que discute a importância da diversidade no treinamento de modelos de IA.
-[Link para o áudio ou vídeo aqui - Se você fizer o upload]
+
+👉 [Clique aqui para ouvir o Podcast (MP3)](assets/podcast_episodio1.mp3)
 
 
 ## 💭 Reflexão
